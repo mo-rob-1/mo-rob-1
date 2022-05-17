@@ -1,8 +1,8 @@
-# Hi 👋 My name is Mo
+# Heyo! I'm Mo 👋 
 
 ## Software Developer - JavaScript | React
 
-I am a software developer specialising in building web applications with ReactJS. My goal is to deliver quality creative solutions across digital platforms and beyond. I spend my free time building self-initiated projects, learning new web technologies and keeping up to date with the latest trends & developments within the tech industry.
+I am a software developer specialising in building web applications with React. My goal is to deliver quality creative solutions across digital platforms and beyond. I enjoy working with others on exciting projects, learning new web technologies and keeping up to date with the latest trends & developments within the tech industry.
 
 - 🌍  I'm based in Manchester
 - 🖥️  See my portfolio at [mocodes.co.uk](http://mocodes.co.uk/)
